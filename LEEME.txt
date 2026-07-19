@@ -1,0 +1,1 @@
+Sube únicamente index.html a tu repositorio y reemplaza el anterior. Todas las imágenes están incluidas dentro del HTML. El aviso de usuarios muestra actividad estimada promocional cada 60 segundos.
